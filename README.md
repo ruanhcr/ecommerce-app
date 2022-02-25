@@ -7,7 +7,7 @@ App que segue o conceito de White Label com Product Flavors, onde o mesmo projet
 - [x] Clean Architecture
 - [x] Use Cases
 - [x] White Label
-- [x] [MVVM](https://developer.android.com/jetpack/guide?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF6MdF2s4IswETMBPtxSUHxGehXBfDoGpp4mJaGe4w5tI2VNcTSr5O8aAgDOEALw_wcB&gclsrc=aw.ds)
+- [x] MVVM
 - [x] [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=pt-br)
 - [x] [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=pt-br)
 - [x] [Coroutines](https://developer.android.com/topic/libraries/architecture/coroutines?hl=pt-br)
