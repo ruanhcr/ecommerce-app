@@ -8,10 +8,10 @@ App que segue o conceito de White Label com Product Flavors, onde o mesmo projet
 - [x] Use Cases
 - [x] White Label
 - [x] [MVVM](https://developer.android.com/jetpack/guide?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF6MdF2s4IswETMBPtxSUHxGehXBfDoGpp4mJaGe4w5tI2VNcTSr5O8aAgDOEALw_wcB&gclsrc=aw.ds)
+- [x] [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=pt-br)
 - [x] [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=pt-br)
 - [x] [Coroutines](https://developer.android.com/topic/libraries/architecture/coroutines?hl=pt-br)
 - [x] [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
-- [x] [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=pt-br)
 - [x] [Dagger - Hilt](https://developer.android.com/training/dependency-injection/hilt-android?hl=pt-br)
 - [x] [Firebase](https://firebase.google.com/?hl=pt-br)
 - [x] [Fragment](https://developer.android.com/guide/fragments)
