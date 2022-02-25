@@ -8,6 +8,6 @@ App que aborda conceitos de Clean Architecture juntamente com MVVM e componentes
 <br>A exibição das imagens é feita através da biblioteca [Glide](https://github.com/bumptech/glide).
 <br>Utiliza-se também [Swiperefresh layout](https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout?hl=pt-br) para atualizar os dados inseridos.
 <br>
-# Demonstração
+# Screenshot
 <br>Exemplo dos App's de Bicicletas / Exemplo dos App's de Carros
 <br>![exemplo](https://media0.giphy.com/media/rTPUGZvwbNrJuD5ATM/giphy.gif?cid=790b7611a562d84e303ee9800b6f3f0d76da52c268e18cde&rid=giphy.gif&ct=g)     ![exemplo2](https://media1.giphy.com/media/2ASEplGS47dFy7sBEh/giphy.gif?cid=790b76117cb309920cfac4ba51c45949504d8e0a5685bbde&rid=giphy.gif&ct=g)
