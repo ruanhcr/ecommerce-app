@@ -1,6 +1,8 @@
 # E-Commerce App
 App que segue o conceito de White Label com Product Flavors, onde o mesmo projeto possui 4 Build Variants Genéricas sendo elas: 2 App's para comércio de Carros com Client e Admin e 2 App's para comércio de Bicicletas também com Client e Admin separados.
-<br>Necessita-se configurar o projeto no Firebase e substituir o arquivo google-services.json gerado para que o app utilize o banco de dados.
+
+# Config
+Necessita-se criar e configurar um projeto no console do [Firebase](https://console.firebase.google.com/u/0/?hl=pt) e substituir o arquivo google-services.json gerado para que o app utilize o banco de dados.
 
 # Development Roadmap
 - [x] [Kotlin](https://kotlinlang.org)
