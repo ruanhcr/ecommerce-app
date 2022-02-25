@@ -21,10 +21,12 @@ App que segue o conceito de White Label com Product Flavors, onde o mesmo projet
 - [x] [Glide](https://github.com/bumptech/glide)
 
 # Features
-- [x] Car Client
+- [x] Car Client - List
+- [x] Car Admin - List 
 - [x] Car Admin - Floating Action Button
 - [x] Car Admin - Add Product 
-- [x] Bike Client
+- [x] Bike Client - List
+- [x] Bike Admin - List
 - [x] Bike Admin - Floating Action Button
 - [x] Bike Admin - Add Product
 
