@@ -34,3 +34,9 @@ Necessita-se criar e configurar um projeto no console do [Firebase](https://cons
 
 # Screenshots
 <br>![exemplo](https://media0.giphy.com/media/rTPUGZvwbNrJuD5ATM/giphy.gif?cid=790b7611a562d84e303ee9800b6f3f0d76da52c268e18cde&rid=giphy.gif&ct=g)     ![exemplo2](https://media1.giphy.com/media/2ASEplGS47dFy7sBEh/giphy.gif?cid=790b76117cb309920cfac4ba51c45949504d8e0a5685bbde&rid=giphy.gif&ct=g)
+
+# TO DO
+Este projeto está em andamento, sendo necessário adicionar:
+- [x] Testes unitários
+- [x] Testes de Instrumentação
+- [x] CI/CD
