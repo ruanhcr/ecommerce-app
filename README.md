@@ -8,7 +8,7 @@ Necessita-se criar e configurar um projeto no console do [Firebase](https://cons
 - [x] [Kotlin](https://kotlinlang.org)
 - [x] Clean Architecture
 - [x] Use Cases
-- [x] White Label
+- [x] Product Flavors
 - [x] MVVM
 - [x] [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=pt-br)
 - [x] [LiveData](https://developer.android.com/topic/libraries/architecture/livedata?hl=pt-br)
